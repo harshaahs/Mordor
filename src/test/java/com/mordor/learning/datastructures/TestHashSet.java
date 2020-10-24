@@ -19,6 +19,5 @@ public class TestHashSet {
         assertEquals(testSet.contains(11),true);
         assertEquals(testSet.contains(3),false);
         assertEquals(testSet.add(11),false);
-       // assertEquals(testSet.add(11),true);
     }
 }
