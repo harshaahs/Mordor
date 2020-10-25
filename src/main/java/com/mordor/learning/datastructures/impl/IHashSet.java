@@ -17,7 +17,6 @@ public class IHashSet<T> implements ISet<T> {
         for(int i=0;i<10;i++){
             set.add(i,new ArrayList<T>());
         }
-      //  throw new RuntimeException("Error!!");
     }
 
     @Override
